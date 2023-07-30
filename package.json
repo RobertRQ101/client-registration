@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "client-registration",
+  "devDependencies": {
+    "turbo": "^1.10.11"
+  },
+  "scripts": {
+    "dev": "turbo run dev"
+  },
+  "workspaces": [
+    "applications/*"
+  ]
+}
